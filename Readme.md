@@ -41,11 +41,3 @@ minigrep sample.txt HELLO -i
 # Using long option names
 minigrep sample.txt --pattern hello --insensitive
 ```
-
-# Project Structure
-
-```
-src/
-├── main.rs      # Program entry point
-Cargo.toml       # Project configuration and dependencies
-```
